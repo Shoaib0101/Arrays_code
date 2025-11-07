@@ -1,0 +1,18 @@
+==========================Basic-level============================
+Q1.Alternate elements of an array
+Q2.Leaders in an array
+Q3.Check if an Array is Sorted
+Q4.Remove duplicates from Sorted Array
+Q5.Generating All Subarrays
+Q6.Array Reverse
+Q7.Rotate an Array - Clockwise or Right
+Q8.Zeroes to End
+Q9.Min Increments to Make Equal
+Q10.Min Cost to Make Size 1
+Q11.Remove Element (in-piace)
+
+==========================Easy-level==============================
+Q1.Duplicate within K Distance in an Array
+Q2.Rearrange array such that even positioned are greater than odd.
+Q3.Sum of all Subarrays
+Q4.
